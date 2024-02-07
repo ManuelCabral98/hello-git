@@ -1,2 +1,2 @@
-# Curso de git y github
-### repo de prueba
+# Git & GitHub course
+### test repository to practice what I learned on Brais Moure's course
